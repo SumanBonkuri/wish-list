@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="comments2" label="Comments2" language="en" table="x_368861_wish_list_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>comments2</element>
+            <help/>
+            <hint/>
+            <label>Comments2</label>
+            <language>en</language>
+            <name>x_368861_wish_list_wish_item</name>
+            <plural>Comments2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Radhika</sys_created_by>
+            <sys_created_on>2023-03-21 07:34:21</sys_created_on>
+            <sys_id>c8ed08902ff12110ea76fe1df699b61a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Comments2</sys_name>
+            <sys_package display_value="Wish List" source="x_368861_wish_list">d7517b802f712110ea76fe1df699b629</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">d7517b802f712110ea76fe1df699b629</sys_scope>
+            <sys_update_name>sys_documentation_x_368861_wish_list_wish_item_comments2_en</sys_update_name>
+            <sys_updated_by>Radhika</sys_updated_by>
+            <sys_updated_on>2023-03-21 07:34:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
